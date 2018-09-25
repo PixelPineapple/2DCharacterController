@@ -1,0 +1,2 @@
+# 2DCharacterController
+Unity2D プラットフォームキャラクタコントローラー
